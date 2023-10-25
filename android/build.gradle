@@ -9,7 +9,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 20
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
